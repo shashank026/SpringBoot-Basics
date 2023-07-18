@@ -1,0 +1,4 @@
+#spring.datasource.url=jdbc:derby:memory:local;create=true
+#spring.datasource.username=derbyuser
+#spring.datasource.password=password
+spring.jpa.hibernate.ddl-auto=update

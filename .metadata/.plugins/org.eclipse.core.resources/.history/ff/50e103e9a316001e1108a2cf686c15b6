@@ -1,0 +1,8 @@
+package io.javabrains.MovieCatalogService;
+
+public class CatalogItem {
+	
+	private String name;
+	private String desc;
+	private int rating;
+}

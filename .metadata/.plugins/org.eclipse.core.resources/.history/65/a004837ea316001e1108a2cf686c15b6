@@ -1,0 +1,5 @@
+package io.javabrains.MovieCatalogService;
+
+public class CatalogItem {
+
+}

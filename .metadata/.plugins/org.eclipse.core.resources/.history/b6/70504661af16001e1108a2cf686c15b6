@@ -1,0 +1,17 @@
+package io.javabrains.RatingsDataService;
+
+public class Rating {
+
+	private String movieId;
+	private int rating;
+
+	public String getMovieId() {
+		return movieId;
+	}
+
+	public void setMovieId(String movieId) {
+		this.movieId = movieId;
+	}
+	
+	
+}
